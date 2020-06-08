@@ -119,6 +119,7 @@ In the following sections we describe each script that we provide.
 
 ### Generating URM splits
 *Prerequisites*: You need to have the environment fully installed.
+
 *NOTE*: On our tests, this process consumes up to `16GiB` of RAM. Please ensure to have these resources or use our
  splits.
 
@@ -136,6 +137,7 @@ Examples:
  
 ### Tuning Hyper-parameters of recommendation algorithms
 *Prerequisites*: You need to have the environment fully installed, and the data splits, preferably.
+
 *NOTE*: Depending on your environment and available resources, the process could get killed because of insufficient
 memory. We used an _r4.4xlarge_ Linux Amazon EC2 Instance to run our experiments. It had 16vCPUs and 128 GiB of RAM.
 However, we utilized this type of instance to run several experiments on parallel. By our own calculations, running
