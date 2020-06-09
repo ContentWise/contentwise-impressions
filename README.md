@@ -1,26 +1,7 @@
 # ContentWise Impressions
 
 This is the repository of our article "ContentWise Impressions: An industrial dataset with impressions included" on CIKM 2020.
-The article is under review at the moment and it's only available as pre-print on [ArXiv](https://ARXIV_URL_HERE) "ContentWise
- Impressions: An industrial dataset with impressions included".
-
-Please cite our article if you use the dataset, this repository, or our implementations of baseline algorithms.
-
-```bibtex
-@Article{ContentWiseImpressions-CIKM-2020,
-author={Pérez Maurera, Fernando Benjamín
-and Ferrari Dacrema, Maurizio
-and Saule, Lorenzo
-and Scriminaci, Mario
-and Cremonesi, Paolo},
-title={ContentWise Impressions: An industrial dataset with impressions included},
-journal={Proceedings of the 29th ACM International Conference on Information and Knowledge Management (CIKM 2020)},
-year={2020},
-doi={},
-Eprint={arXiv},
-note={Source: \url{https://github.com/ContentWise/contentwise-impressions}},
-}
-```
+The article is under review at the moment.
 
 ## How to download the dataset?
 You can obtain the link to download the dataset by filling this [survey](https://forms.office.com/Pages/ResponsePage.aspx?id=K3EXCvNtXUKAjjCd8ope6_zxBj9DRzpKnC4jkclZQupUQ0szOVhTQ1FCT0tZSEw1T1g0RzVBRVhSSC4u).
