@@ -1,6 +1,6 @@
 # ContentWise Impressions
 
-This is the repository associated to our article "ContentWise Impressions: An industrial dataset with impressions included" accepted and presented on CIKM 2020. Full text is available on [ResearchGate](https://www.researchgate.net/publication/343481932_ContentWise_Impressions_An_Industrial_Dataset_with_Impressions_Included) or [ArXiv](https://arxiv.org/abs/2008.01212). Source code of our experiments and results is available [here](https://github.com/ContentWise/contentwise-impressions).
+This is the repository associated to our article "ContentWise Impressions: An Industrial Dataset with Impressions Included" accepted and presented on CIKM 2020. Full text is available on [ResearchGate](https://www.researchgate.net/publication/343481932_ContentWise_Impressions_An_Industrial_Dataset_with_Impressions_Included), [ArXiv](https://arxiv.org/abs/2008.01212) or [ACM DL](https://dl.acm.org/doi/10.1145/3340531.3412774). Source code of our experiments and results is available [here](https://github.com/ContentWise/contentwise-impressions).
 
 ## How to download the dataset?
 You can obtain the link to download the dataset by filling this [survey](https://forms.office.com/Pages/ResponsePage.aspx?id=K3EXCvNtXUKAjjCd8ope6_zxBj9DRzpKnC4jkclZQupUQ0szOVhTQ1FCT0tZSEw1T1g0RzVBRVhSSC4u).
