@@ -48,11 +48,11 @@ schemadotorg:
  citation: "https://doi.org/10.1145/3340531.3412774"
  distribution:
    - csv:
-     "@type":"DataDownload"
+     "@type": "DataDownload"
      encodingFormat: "CSV"
      contentUrl: "https://forms.office.com/Pages/ResponsePage.aspx?id=K3EXCvNtXUKAjjCd8ope6_zxBj9DRzpKnC4jkclZQupUQ0szOVhTQ1FCT0tZSEw1T1g0RzVBRVhSSC4u"
    - parquet:
-     "@type":"DataDownload"
+     "@type": "DataDownload"
      encodingFormat: "parquet"
      contentUrl: "https://forms.office.com/Pages/ResponsePage.aspx?id=K3EXCvNtXUKAjjCd8ope6_zxBj9DRzpKnC4jkclZQupUQ0szOVhTQ1FCT0tZSEw1T1g0RzVBRVhSSC4u"
  identifier: "10.1145/3340531.3412774"
