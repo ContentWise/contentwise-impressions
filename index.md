@@ -1,5 +1,3 @@
-This is the webpage associated to our article "ContentWise Impressions: An Industrial Dataset with Impressions Included" accepted and presented on CIKM 2020. 
-
 ## How to download the dataset?
 You can obtain the link to download the dataset by filling this [form](https://forms.office.com/Pages/ResponsePage.aspx?id=K3EXCvNtXUKAjjCd8ope6_zxBj9DRzpKnC4jkclZQupUQ0szOVhTQ1FCT0tZSEw1T1g0RzVBRVhSSC4u).
 

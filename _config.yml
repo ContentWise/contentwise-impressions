@@ -19,12 +19,15 @@
 # in the templates via {{ site.myvariable }}.
 
 title: >-
-  ContentWise Impressions: An Industrial Dataset with Impressions Included
+  ContentWise Impressions
 email: fernando.perez@contentwise.com
 description: >- # this means to ignore newlines until "baseurl:"
   First open-source dataset for Recommender Systems (RecSys) containing 
   interactions and impressions (previous recommendations) of users suscribed 
   to a video-on-demand service that provides access to television and cinema content.
+
+  The article accepted and presented on CIKM 2020 of the dataset is 
+  "ContentWise Impressions: An Industrial Dataset with Impressions Included"
 baseurl: "/contentwise-impressions" # the subpath of your site, e.g. /blog
 url: "https://contentwise.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: fernandobperezm
