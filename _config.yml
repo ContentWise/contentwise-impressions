@@ -18,13 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: >-
-  ContentWise Impressions
+title: ContentWise Impressions
 email: fernando.perez@contentwise.com
 description: >- # this means to ignore newlines until "baseurl:"
   First open-source dataset for Recommender Systems (RecSys) containing 
   interactions and impressions (previous recommendations) of users suscribed 
-  to a video-on-demand service that provides access to television and cinema content.
+  to a video-on-demand service that provides access to television and cinema content. <br/><br/>
 
   The article accepted and presented on CIKM 2020 of the dataset is 
   "ContentWise Impressions: An Industrial Dataset with Impressions Included"
