@@ -230,3 +230,5 @@ For personal communication related to ContentWise Impressions, please contact:
 - Lorenzo Saule ([lorenzo.saule@gmail.com](mailto:lorenzo.saule@gmail.com)).
 - Mario Scriminaci ([mario.scriminaci@contentwise.com](mailto:mario.scriminaci@contentwise.com)).
 - Paolo Cremonesi ([paolo.cremonesi@polimi.it](mailto:paolo.cremonesi@polimi.it)).
+
+{% include jsonld.html %}
