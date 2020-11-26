@@ -1,3 +1,7 @@
+---
+theme: default
+---
+
 ## How to download the dataset?
 You can obtain the link to download the dataset by filling this [form](https://forms.office.com/Pages/ResponsePage.aspx?id=K3EXCvNtXUKAjjCd8ope6_zxBj9DRzpKnC4jkclZQupUQ0szOVhTQ1FCT0tZSEw1T1g0RzVBRVhSSC4u).
 
@@ -230,5 +234,3 @@ For personal communication related to ContentWise Impressions, please contact:
 - Lorenzo Saule ([lorenzo.saule@gmail.com](mailto:lorenzo.saule@gmail.com)).
 - Mario Scriminaci ([mario.scriminaci@contentwise.com](mailto:mario.scriminaci@contentwise.com)).
 - Paolo Cremonesi ([paolo.cremonesi@polimi.it](mailto:paolo.cremonesi@polimi.it)).
-
-{% include jsonld.html %}
