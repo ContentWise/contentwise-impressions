@@ -394,8 +394,8 @@ class ContentWiseImpressions(Dataset):
 
         self.URM = {
             "train": train_split,
-            "test": validation_split,
-            "validation": test_split
+            "validation": validation_split,
+            "test": test_split,
         }
 
     def _generate_urm_impressions(self, use_items: bool) -> None:
